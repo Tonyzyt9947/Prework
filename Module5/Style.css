@@ -1,0 +1,25 @@
+<style>
+    h1{text-align: center;}
+
+    body{background-color: silver;}
+
+    .red{color: red;}
+
+    .blue{color:blue;}
+
+    .green{color:green;}
+
+    .big{font-size: x-large;}
+
+    .tiny{font-size: x-small;}
+
+    .centered{text-align: center;}
+
+    .cursive{font-family: cursive;}
+
+    .MA{color: orange; font-size: x-large;}
+
+    .styledFont{color:orangered;font-family: fantasy;text-align: center;}
+
+    #styledImage{border: 5cm; border-color: black;border-radius: 80%;}
+</style>
